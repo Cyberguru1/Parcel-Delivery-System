@@ -23,5 +23,5 @@ To run this project you will need:
 
 ## Contribution
 ---
-**Hamza Saidu**
-**Chat GPT**
+- **Hamza Saidu**
+- **Chat GPT**
